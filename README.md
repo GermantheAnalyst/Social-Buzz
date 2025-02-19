@@ -39,9 +39,7 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
 
 **ReactionTypes Type**: A string detailing the type of reaction this user gave Sentiment: A string detailing whether this type of reaction is considered as positive, negative or neutral Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction.
 
-
-<img width="932" alt="Screenshot 2025-02-19 184945" src="https://github.com/user-attachments/assets/6b74b422-38ba-40f1-9066-8f039c2d536c" />
-
+![Screenshot 2025-02-19 162753](https://github.com/user-attachments/assets/3fd428ed-757b-446c-9376-4fba11a0bbc2)
 
 Prior to the beginning the analyssis , a veriety of checks were conducted for quality control and familiarization with the dataset. 
 
@@ -59,6 +57,9 @@ Well, it will be approached in 5 steps:
 1. #### Data understanding - the key to success on any data project is to understand the data in detail. So we took the time to understand the data model and domain of your business.
 2. #### Data cleaning - after understanding your business, we then cleaned the available datasets and thought about what an ideal dataset should look like for this problem.
 3. #### Data modelling - After ensuring the data was clean for analysis, we needed to process and model this data into a dataset that could precisely answer the business questions and produce the results needed.
+
+<img width="932" alt="Screenshot 2025-02-19 184945" src="https://github.com/user-attachments/assets/6b74b422-38ba-40f1-9066-8f039c2d536c" />
+   
 4. #### Data analysis - With our new dataset, we used our analytical expertise to uncover insights from this dataset and to produce visualizations to describe the insights.
 5. And finally we used these insights to unlock business decisions and to make recommendations on the next steps
 
