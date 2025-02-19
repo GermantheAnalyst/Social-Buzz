@@ -18,6 +18,11 @@ Up until this point, they have not relied on any third party firms to help them 
 3) They want to learn data best practices from a large corporation. Due to the nature of their business, they have a massive amount of data so they are keen on
 understanding how the world's biggest companies manage the challenges of big data.
 
+To start our engagement with Social Buzz, we are running a 3 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
+- An audit of their big data practice
+- Recommendations for a successful IPO
+- An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
+
 ## Data Structure and Initial checks
 
 **User ID**: Unique ID of the user (automatically generated) Name: Full name of user Email: Email address of user
@@ -56,7 +61,7 @@ Well, it will be approached in 5 steps:
 4. #### Data analysis - With our new dataset, we used our analytical expertise to uncover insights from this dataset and to produce visualizations to describe the insights.
 5. And finally we used these insights to unlock business decisions and to make recommendations on the next steps
 
-#### Insight
+### Insight
 
 From our analysis, you can see that the top 5 most popular categories of posts were animals, science, healthy eating, technology and food in descending order.
 
@@ -68,7 +73,7 @@ Also, the data we found that there is a total of 16 unique categories of posts a
 
 But now, onto the main question... which is... what were the top 5 most popular categories of posts?
 
-#### Excutive Summary
+### Excutive Summary
 
  **So to summarize:
 We tackled this task and found the top 5 most popular categories as asked, but also went a step further.
@@ -76,7 +81,7 @@ We tackled this task and found the top 5 most popular categories as asked, but a
 
 - also found that food was a common theme amongst popular content and the most popular food category was healthy eating. 
 
-#### Recommendation
+### Recommendation
 
 These findings could be a signal to show the types of people who are using your platform, and you could use this insight to boost engagement even further. For example, The company could run a campaign with content focused on this category or work with healthy eating brands to promote content.
 
