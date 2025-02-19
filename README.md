@@ -75,7 +75,7 @@ But now, onto the main question... which is... what were the top 5 most popular 
 
 ### Excutive Summary
 
- **So to summarize:
+So to summarize:
 We tackled this task and found the top 5 most popular categories as asked, but also went a step further.
 - found that animals and science are the two most popular categories, suggesting that users like "real-life" and "factual" content
 
