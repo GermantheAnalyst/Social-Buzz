@@ -40,7 +40,8 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
 **ReactionTypes Type**: A string detailing the type of reaction this user gave Sentiment: A string detailing whether this type of reaction is considered as positive, negative or neutral Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered as a more popular reaction.
 
 
-![Screenshot 2025-02-19 162753](https://github.com/user-attachments/assets/cea638af-a61c-4d53-98be-09927730ec34)
+<img width="932" alt="Screenshot 2025-02-19 184945" src="https://github.com/user-attachments/assets/6b74b422-38ba-40f1-9066-8f039c2d536c" />
+
 
 Prior to the beginning the analyssis , a veriety of checks were conducted for quality control and familiarization with the dataset. 
 
