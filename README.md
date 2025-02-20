@@ -82,7 +82,10 @@ So to summarize:
 We tackled this task and found the top 5 most popular categories as asked, but also went a step further.
 - found that animals and science are the two most popular categories, suggesting that users like "real-life" and "factual" content
 
-- also found that food was a common theme amongst popular content and the most popular food category was healthy eating. 
+- also found that food was a common theme amongst popular content and the most popular food category was healthy eating.
+
+<img width="979" alt="Screenshot 2025-02-20 054710" src="https://github.com/user-attachments/assets/403617a5-d708-4b37-a57c-4a424cf08b4b" />
+
 
 ### Recommendation
 
