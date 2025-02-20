@@ -67,7 +67,8 @@ Well, it will be approached in 5 steps:
 
 From our analysis, you can see that the top 5 most popular categories of posts were animals, science, healthy eating, technology and food in descending order.
 
-<img width="447" alt="Screenshot 2025-02-19 174906" src="https://github.com/user-attachments/assets/807377fa-fb6e-48ba-8070-6f940849236d" />
+<img width="980" alt="Screenshot 2025-02-20 054847" src="https://github.com/user-attachments/assets/7c9fc663-c609-431c-b622-8bf332e36d77" />
+
 
 Animals had an aggregate popularity score of around 74965. It is very interesting to see both food and healthy eating within the top 5, it really shows that food is a highly engaging content category. Healthy eating ranks slightly higher than food, so perhaps your user base may be skewed towards healthy eaters and health-conscious people.
 
