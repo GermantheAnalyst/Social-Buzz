@@ -86,7 +86,7 @@ We tackled this task and found the top 5 most popular categories as asked, but a
 
 ![Screenshot 2025-02-24 024523](https://github.com/user-attachments/assets/edf5128c-c28a-4f7a-9840-6e5f74908a82)
 
-The interactive dashboard can be downloaded here 
+ 
 
 ### Recommendation
 
