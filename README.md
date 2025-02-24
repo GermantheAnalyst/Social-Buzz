@@ -84,9 +84,9 @@ We tackled this task and found the top 5 most popular categories as asked, but a
 
 - also found that food was a common theme amongst popular content and the most popular food category was healthy eating.
 
-<img width="984" alt="Screenshot 2025-02-20 191309" src="https://github.com/user-attachments/assets/bae31174-3b71-434a-b7db-9f362de46a36" />
+![Screenshot 2025-02-24 024523](https://github.com/user-attachments/assets/edf5128c-c28a-4f7a-9840-6e5f74908a82)
 
-
+The interactive dashboard can be downloaded here 
 
 ### Recommendation
 
